@@ -9,7 +9,7 @@
     </ol>
     <div class="carousel-inner">
           <div class="carousel-item active">
-              <img class="d-block w-100" src="https://todaysveterinarynurse.com/wp-content/uploads/sites/3/2019/11/TVN_PetOwnerFacts_shutterstock_1359893087_Pixel-Shot.jpg" alt="First slide" style="height:500px">
+              <img class="d-block w-100" src="/images/1.jpg" alt="First slide" style="height:500px">
               <div class="carousel-caption w-50 d-none d-md-block">
                   <h3><strong>AN ONLINE REGISTRATION SYSTEM FOR PET OWNERS TO REGISTER THEIR PETS CONVENIENTLY</strong></h3>
                   <h5>Pet-id is a unique online pet registration platform. After the registion of his/her pet, the owner will receive
@@ -18,14 +18,14 @@
               </div>
           </div>
           <div class="carousel-item">
-              <img class="d-block w-100" src="https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2018/04/23073318/6-Benefits-of-Working-from-Home-as-a-Pet-Owner.jpg" alt="Second slide" style="height:500px">
+              <img class="d-block w-100" src="/images/2.jpg" alt="Second slide" style="height:500px">
               <div class="carousel-caption w-50 d-none d-md-block">
                   <h1><strong>Comfortable coexistence of pets and their owners via Pet Crew-ID</strong></h1>
                   <h5>Pet Crew-id aims to smoothen the coexistence of owners <br> and pets through this unique app!</h5>
               </div>
           </div>
           <div class="carousel-item">
-              <img class="d-block w-100" src="https://www.petvetcarecenters.com/files/pet-vet-care-centers-join-pet-family.jpeg" alt="Third slide" style="height:500px">
+              <img class="d-block w-100" src="/images/3.jpeg" alt="Third slide" style="height:500px">
               <div class="carousel-caption w-50 d-none d-md-block">
                   <h1><strong>Welfare and health boost of pets</strong></h1>
                   <h5>The interaction and communication of owners through <br> this app will improve the welfare of pets immensly</h5>
@@ -73,7 +73,7 @@
         </div>
         <div class="col-md-6">
             <div style="padding-top:140px;">
-                <img src="https://petmediagroup.com/wp-content/uploads/2016/11/pets_big.png" class="img-fluid">
+                <img src="/images/pets_big.png" class="img-fluid">
             </div>
         </div>
     </div>
@@ -89,7 +89,7 @@
                 <h5>To provide a standard registration / platform to keep track and record all the pets and their pet owners in the country.</h5>
             </div>
             <div class="col-md-7 py-5" style="padding-top:300px; ">
-                <img src="https://dogexpress.in/wp-content/uploads/2016/06/register-your-pet-dogs-online-660x330.jpg"class="img-fluid" style="width:550px;padding-top:60px; padding-bottom:40px;">
+                <img src="/images/registerPett.png"class="img-fluid" style="width:550px;padding-top:60px; padding-bottom:40px;">
             </div>
         </div>
     </div>
@@ -108,7 +108,7 @@
             <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non quisquam veniam sunt accusantium nisi iusto ipsam modi amet? Tenetur dolorum provident itaque ex dignissimos assumenda optio quas, aut velit voluptatibus.</h5>     
         </div>
         <div class="col-md-6 py-5">
-            <img src="/svg/petAndOwnerLogo.svg" class="img-fluid" style="width:400px; height:500px">
+            <img src="/images/petOwnerWalkDog.png" class="img-fluid" style="padding-top:40px;">
         </div>
     </div>
 </div>
@@ -124,7 +124,7 @@
                 
                 <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est totam itaque. Modi est, ea officia praesentium, quos error provident fugiat sed doloribus, possimus temporibus quis nihil saepe culpa illum!</h5>
                 <div class="">
-                    <img src="https://southerncourier.co.za/wp-content/uploads/sites/36/2014/09/PetProtection.jpg" class="img-fluid">
+                    <img src="/images/dogGroup.jpg" class="img-fluid">
                 </div>
             </div>
             
